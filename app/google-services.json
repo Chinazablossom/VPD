@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274839660058",
+    "project_id": "vpd-money",
+    "storage_bucket": "vpd-money.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274839660058:android:360021d1617d82738913a3",
+        "android_client_info": {
+          "package_name": "com.example.vpd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy8VWDjwfnOpSV5r86RQIduqzxTYUVDiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
