@@ -14,7 +14,7 @@
 # Libraries Used
 - Firebase Authentication: used for user login and authentication.
 - RecyclerView: displaying lists of accounts and transaction history.
-- Room: local database management for storing accounts and transactions.
+- Room & SharedPrefrences: local database management for storing accounts and transactions.
 - LiveData: data observation for updating UI components based on database changes.
 - ViewModel: managing UI-related data in a lifecycle-conscious way.
 - Kotlin Coroutines: For managing asynchronous tasks such as database operations and network requests in a structured and sequential manner.
